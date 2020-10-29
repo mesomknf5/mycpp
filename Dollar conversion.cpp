@@ -11,7 +11,9 @@ int main() {
 	d=num/100;
 
 	q=num/25;
+	
 	num=num-q*25;
+	
 	di=num/10;
 
 	n=num/5;
